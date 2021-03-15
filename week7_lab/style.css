@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: navy;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+#animal-img {
+    border: 10px solid navy;
+    border-radius: 10px;
+}
