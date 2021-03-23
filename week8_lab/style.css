@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: navy;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+#animal-img {
+    border: 10px solid navy;
+    border-radius: 10px;
+}
+
+button {
+    font-family: 'Open Sans Condensed', sans-serif;
+    border: 1px navy;
+    border-radius: 5px;
+    background-color: white;
+    color: navy;
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+#button-action-text {
+    display: none;
+}
